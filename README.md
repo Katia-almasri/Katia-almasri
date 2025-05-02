@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me
 - 🔭 I’m currently building back-end Laravel projects that include Stripe payments, real estate tokenization using NFTs and SPVs, and automated testing practices.
 - 🧪 I implemented both **TDD** and **BDD** in my workflow, using **unit testing**, **integration testing**.
-- 🐳 I am using  the *Docker** in a **CI/CD pipeline that insures automating deployment and testing for production-ready code.
+- 🐳 I am using  the **Docker** in a **CI/CD** pipeline that insures automating deployment and testing for production-ready code.
 - ⚙️ Tech Stack: PHP · Laravel · MySQL · Postgre SQL . Typescript . NestJS · Redis . Docker · Web3 · REST APIs . Websockets . Webhooks
 - 📈 I'm passionate about building scalable products specially e-commerce and SAAS products.
 - 
