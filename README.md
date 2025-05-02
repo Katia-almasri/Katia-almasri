@@ -13,10 +13,9 @@
 ---
 
 ### 📌 Projects I’m Proud Of
-- 🏬 [EyeTact](https://github.com/yourrepo): Multi-vendor e-commerce wholesale platform
-- 🚗 [Dawa2Go](https://github.com/yourrepo): A delivery platform for pharmacies, drivers, and customers
-- 🧱 [CI/CD Template](https://github.com/yourrepo): Laravel with GitLab CI & Docker
-- 🪙 [Real Estate Tokenizer](https://github.com/yourrepo): Tokenizing SPVs and NFTs for property shares
+- 🏬 [Fractional Real Estate](https://github.com/Katia-almasri/harvest): Fractional Real Estate acts as the bridge(web 2.5) between Web2 and Web3 
+- 🚗 [Kitchen Management System](https://github.com/Katia-almasri/kitchen-management-system): SAAS Project that manages the kitchens materials in restuarants
+- 🧱 [Blog Management System](https://github.com/Katia-almasri/blog-management-system/tree/master): Laravel project that manages the the blog system with RBAC in the System
 
 ---
 
