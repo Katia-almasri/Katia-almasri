@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Katia</h1>
-<p align="center">🚀 Software Engineer | Backend developer | Laravel Developer | 🧠 Always Learning</p>
+<p align="center">🚀 Software Engineer | Backend developer | NodeJs Developer (Express & NestJs) | Laravel Developer | 🧠 Always Learning</p>
 
 ---
 
