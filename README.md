@@ -21,7 +21,8 @@
 
 ### 📫 Let’s Connect
 - 📧 Email: katiaalmasri2@gmail.com
-- 💼 [LinkedIn]https://www.linkedin.com/in/katia-al-masri-5884821b8/
+- 💼 LinkedIn: https://www.linkedin.com/in/katia-al-masri-5884821b8/
+- ☎️ Mobile + whatsapp: +963935746341
 
 ---
 
