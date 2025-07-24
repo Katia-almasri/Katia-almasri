@@ -13,6 +13,7 @@
 ---
 
 ### 📌 Projects I’m Proud Of
+- 💸 [Flexipay](https://github.com/Katia-almasri/FlexiPay): a custom payment gateway built using Expressjs and mongo data (No SQL)
 - 🏬 [Fractional Real Estate](https://github.com/Katia-almasri/harvest): Fractional Real Estate acts as the bridge(web 2.5) between Web2 and Web3 
 - 🚗 [Kitchen Management System](https://github.com/Katia-almasri/kitchen-management-system): SAAS Project that manages the kitchens materials in restuarants
 - 🧱 [Blog Management System](https://github.com/Katia-almasri/blog-management-system/tree/master): Laravel project that manages the the blog system with RBAC in the System
