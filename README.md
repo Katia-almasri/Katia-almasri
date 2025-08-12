@@ -8,7 +8,6 @@
 - 🐳 Using Docker and modern deployment workflows to ensure production-grade, reliable delivery.
 - 🛠️ Tools & Stack: Node.js · TypeScript · Express · NestJS · MongoDB · PostgreSQL · Redis · Docker · GitHub Actions · Azure DevOps · REST APIs · Webhooks · Websockets
 - 💸 Passionate about designing and building secure, modular, and cloud-ready FinTech products, especially in payments, e-commerce, and SaaS platforms.
-                                                            <p align="center">Feel free to check them below 👇</p>
 
 ---
 
@@ -17,6 +16,7 @@
 - 🏘️ Fractional Real Estate: A hybrid Web 2.5 platform exploring real estate fractional ownership, initially started in Laravel and now transitioning to Node.js backend.
 - 🍽️ Kitchen Management System: A SaaS inventory management system for restaurants and kitchens.
 - 🧱 Blog Management System: A content platform with RBAC, now archived as I shift focus to modern backend and cloud tech.he the blog system with RBAC in the System
+  <p align="center">Feel free to check them below 👇</p>
 
 ---
 
