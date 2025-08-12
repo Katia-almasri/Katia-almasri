@@ -8,7 +8,7 @@
 - 🐳 Using Docker and modern deployment workflows to ensure production-grade, reliable delivery.
 - 🛠️ Tools & Stack: Node.js · TypeScript · Express · NestJS · MongoDB · PostgreSQL · Redis · Docker · GitHub Actions · Azure DevOps · REST APIs · Webhooks · Websockets
 - 💸 Passionate about designing and building secure, modular, and cloud-ready FinTech products, especially in payments, e-commerce, and SaaS platforms.
-                                                            - Feel free to check them below 👇 -
+                                                            Feel free to check them below 👇
 
 ---
 
