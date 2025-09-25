@@ -14,8 +14,8 @@
 ### 📌 Projects I’m Proud Of
 - 💳 FlexiPay: A custom-built FinTech payment gateway with support for multiple providers. Built in Express.js, integrated with webhooks, refund flow, and designed for CI/CD on Azure.
 - 🏘️ Fractional Real Estate: A hybrid Web 2.5 platform exploring real estate fractional ownership, initially started in Laravel and now transitioning to Node.js backend.
-- 🍽️ Kitchen Management System: A SaaS inventory management system for restaurants and kitchens.
-- 🧱 Blog Management System: A content platform with RBAC, now archived as I shift focus to modern backend and cloud tech.he the blog system with RBAC in the System
+- 🐳 Hands on lab: A real implementation of dockerization of FlexipPay project using Azure and DevOps Practices.
+- ☁️ Hands on lab: A real implementation of CI/CD using Azure DevOps and Azure services.
   <p align="center">Feel free to check them below 👇</p>
 
 ---
