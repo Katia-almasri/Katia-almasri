@@ -21,7 +21,7 @@
 ## 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,laravel,postgres,mongodb,docker,azure" />
+  <img src="https://skillicons.dev/icons?i=nodejs,azure,docker,typescript,laravel,postgres,mongodb,react" />
 </p>
 
 ---
