@@ -18,8 +18,13 @@
 - ☁️ Hands on lab: A real implementation of CI/CD using Azure DevOps and Azure services.
   <p align="center">Feel free to check them below 👇</p>
 ---
-My coding stack:
-NodeJs PostgreSql Javascript Docker MongoDB 
+### 🛠 Tech Stack
+
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![Docker](https://skillicons.dev/icons?i=docker)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ---
 
 ### 📫 Let’s Connect
