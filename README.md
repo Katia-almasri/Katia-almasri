@@ -17,7 +17,9 @@
 - 🐳 Hands on lab: A real implementation of dockerization of FlexipPay project using Azure and DevOps Practices.
 - ☁️ Hands on lab: A real implementation of CI/CD using Azure DevOps and Azure services.
   <p align="center">Feel free to check them below 👇</p>
-
+---
+My coding stack:
+NodeJs PostgreSql Javascript Docker MongoDB 
 ---
 
 ### 📫 Let’s Connect
