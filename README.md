@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Katia</h1> <p align="center">🚀 Backend Engineer | Node.js (Express & NestJS) | FinTech Focused | DevOps & Azure Enthusiast | CI/CD & Cloud Native | 🧠 Always Learning</p>
+<h1 align="center">Hi 👋, I'm Katia</h1> <p align="center">🚀 Backend Engineer | Node.js (Express & NestJS) | FinTech Focused | AWS & Azure Enthusiast | CI/CD & DevOps | 🧠 Always Learning</p>
 
 ---
 
